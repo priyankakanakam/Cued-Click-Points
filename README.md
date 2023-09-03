@@ -11,4 +11,5 @@ Language-Java
 Backend-MySQL
 IDE used- Eclipse
 
+![image](https://github.com/priyankakanakam/Graphical-Password-Authentication-using-Cued-Click-Points/assets/106732773/2897e83c-a586-46a1-86f4-9f653710adc4)
 
