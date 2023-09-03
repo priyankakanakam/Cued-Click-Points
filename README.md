@@ -1,5 +1,8 @@
 # Cued-Click-Points
 This project aims to provide a secure and user-friendly alternative to traditional text-based passwords by leveraging the human visual and spatial memory.
+When a user logs in, a unique binary is generated for each image in the set, unlike the typical graphical password authentication process. This binary is sent to the user's email address.
+The user is meant to click the incorrect point for each binary digit that is represented by 0 and the correct position for each binary digit that is represented by 1.
+Since it might be quite challenging for a user to recall details precisely, some tolerance is provided.
 
 Features
 User-friendly graphical password authentication.
