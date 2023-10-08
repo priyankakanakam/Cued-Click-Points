@@ -14,10 +14,10 @@ Language-Java
 Backend-MySQL
 IDE used- Eclipse
 
-![image](https://github.com/priyankakanakam/Graphical-Password-Authentication-using-Cued-Click-Points/assets/106732773/4fb685ea-27fb-44ae-acff-5c843a1b3576)<br>
-![image](https://github.com/priyankakanakam/Graphical-Password-Authentication-using-Cued-Click-Points/assets/106732773/f1ff9e25-dd9f-466a-8cc9-0b511d65a848)<br>
-![image](https://github.com/priyankakanakam/Graphical-Password-Authentication-using-Cued-Click-Points/assets/106732773/4123e5e6-9dd4-4169-96cb-51d80338e3ad)<br>
-![image](https://github.com/priyankakanakam/Graphical-Password-Authentication-using-Cued-Click-Points/assets/106732773/83f4a0e8-0275-452c-8fb4-f89d571bbf84)<br>
+![image](https://github.com/priyankakanakam/Graphical-Password-Authentication-using-Cued-Click-Points/assets/106732773/4fb685ea-27fb-44ae-acff-5c843a1b3576)
+![image](https://github.com/priyankakanakam/Graphical-Password-Authentication-using-Cued-Click-Points/assets/106732773/f1ff9e25-dd9f-466a-8cc9-0b511d65a848)
+![image](https://github.com/priyankakanakam/Graphical-Password-Authentication-using-Cued-Click-Points/assets/106732773/4123e5e6-9dd4-4169-96cb-51d80338e3ad)
+![image](https://github.com/priyankakanakam/Graphical-Password-Authentication-using-Cued-Click-Points/assets/106732773/83f4a0e8-0275-452c-8fb4-f89d571bbf84)
 ![image](https://github.com/priyankakanakam/Graphical-Password-Authentication-using-Cued-Click-Points/assets/106732773/fd97be5f-8974-4c18-8251-9d1335822e5c)
 
 
